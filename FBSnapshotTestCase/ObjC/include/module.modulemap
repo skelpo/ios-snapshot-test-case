@@ -1,0 +1,5 @@
+module FBSnapshotTestCaseObjC {
+    umbrella header "../FBSnapshotTestCaseObjC.h"
+    link "FBSnapshotTestCaseObjC"
+    export *
+}
